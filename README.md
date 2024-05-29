@@ -85,7 +85,7 @@ Las vistas utilizan variables específicas para mostrar información. Aquí se l
 1. Clona este repositorio en tu servidor local.
 2. Configura los detalles de tu base de datos en `config/database.php`.
 3. Asegúrate de que tu servidor web tenga habilitado PHP y PDO.
-4. Accede al directorio `public` desde tu navegador web.
+4. Accede al archivo `index.php` desde tu navegador web.
 5. Utiliza la interfaz para crear, leer, actualizar y eliminar usuarios.
 
 Este proyecto sirve como una base para entender el patrón MVC en PHP y cómo implementar operaciones CRUD de manera segura y estructurada utilizando PDO.
